@@ -3,6 +3,8 @@
     <h1>{{ msg }}<router-link to="/login">去登陆</router-link></h1>
     <h1><router-link to="/form">表单</router-link></h1>
     <h1><router-link to="/table">表格</router-link></h1>
+    <h1><router-link to="/list">列表</router-link></h1>
+    <h1><router-link to="/layout">布局</router-link></h1>
     <p>
       For a guide and recipes on how to configure / customize this project,<br>
       check out the
